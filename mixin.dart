@@ -30,7 +30,7 @@ mixin Chess {
   }
 }
  
-mixin iPhone on Coder { // Works only on Coder
+mixin iPhone on Coder { // Others doesn't have such problems :D
   void callSomeone() {
     print("Calling...");
   }
